@@ -1,4 +1,4 @@
-<!-- ============================================= -->
+<img width="736" height="1313" alt="image" src="https://github.com/user-attachments/assets/3301b7b7-9772-4019-9c4f-8d8196210984" /><!-- ============================================= -->
 <!-- 🗡️  TOP BANNER — replace banner.png with your -->
 <!-- own exported image (Figma/Canva/Photoshop).   -->
 <!-- This is where character art like Tanjiro goes -->
@@ -6,7 +6,7 @@
 <!-- anime artwork.                                -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Mohamed — Software Engineer" width="100%" />
+  <img src="https://i.pinimg.com/736x/2b/17/54/2b1754bc0bc9fc750a79a05ff4d87bbd.jpg" alt="Mohamed — Software Engineer" width="100%" />
 </p>
 
 <h1 align="center">MOHAMED</h1>

@@ -1,4 +1,4 @@
-<img width="736" height="1213" alt="image" src="https://i.pinimg.com/736x/3a/2c/20/3a2c202fc9c8f0d5a08a8f6192646b90.jpg" /><!-- ============================================= -->
+<img width="736" height="513" alt="image" src="https://i.pinimg.com/736x/3a/2c/20/3a2c202fc9c8f0d5a08a8f6192646b90.jpg" /><!-- ============================================= -->
 <!-- 🗡️  TOP BANNER — replace banner.png with your -->
 <!-- own exported image (Figma/Canva/Photoshop).   -->
 <!-- This is where character art like Tanjiro goes -->

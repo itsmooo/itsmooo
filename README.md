@@ -1,13 +1,13 @@
-<img width="736" height="1313" alt="image" src="https://github.com/user-attachments/assets/3301b7b7-9772-4019-9c4f-8d8196210984" /><!-- ============================================= -->
+<img width="736" height="313" alt="image" src="https://github.com/user-attachments/assets/3301b7b7-9772-4019-9c4f-8d8196210984" /><!-- ============================================= -->
 <!-- 🗡️  TOP BANNER — replace banner.png with your -->
 <!-- own exported image (Figma/Canva/Photoshop).   -->
 <!-- This is where character art like Tanjiro goes -->
 <!-- — source that separately since it's licensed  -->
 <!-- anime artwork.                                -->
 <!-- ============================================= -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/736x/2b/17/54/2b1754bc0bc9fc750a79a05ff4d87bbd.jpg" alt="Mohamed — Software Engineer" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">MOHAMED</h1>
 <h3 align="center">🌊 水の呼吸 — Water Breathing 🌊</h3>

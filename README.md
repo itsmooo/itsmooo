@@ -103,15 +103,8 @@ I'm a passionate **Software Engineer** who loves turning ideas into real-world a
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-**🌿 Plant Identification & Care System**
-AI-powered system to identify plants from images and provide care information.
-`React` `Flask` `TensorFlow` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
+  
 **🏠 Sahan Real Estate**
 Real estate platform for buying, selling, and renting properties with a modern architecture.
 `Laravel` `React` `MySQL` `REST API`
